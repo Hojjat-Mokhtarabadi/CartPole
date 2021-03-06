@@ -1,1 +1,4 @@
 .idea
+deep_q_learning/__pycache__ policy_gradient/__pycache__
+*.pyc
+*.pyc
